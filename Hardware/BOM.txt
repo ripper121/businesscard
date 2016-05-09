@@ -1,0 +1,15 @@
+Stückliste exportiert aus C:/Users/sts/Documents/eagle/BusinessCard/BusinessCard.sch am 04.05.2016 13:13
+
+Qty Value           Device                    Package                Parts                                                                                                                                                                                                                                                             Description                                PROD_ID  VALUE                                                                                                                                                                                                                                                                 RESISTOR, European symbol                                        
+1   Tiny85-20-SMT   ATTINY45TINY85-20-SMT     SO08-EIAJ              IC1                                     
+1   10118194-0001LF USBMICRO_20329            4UCONN_20329           CN1                                                   
+1   BAT-HLD-001     BK-889                    BK-889                 G1
+1   SCHOTTKY        DIODE_SOD-123FL           SOD-123FL              D2
+2   68 (0603)       RESISTOR_0603_NOOUT       0603-NO                R1, R2
+1   green           LED0805_NOOUTLINE         CHIPLED_0805_NOOUTLINE PWR-LED                                                              
+1   red             LED0805_NOOUTLINE         CHIPLED_0805_NOOUTLINE USER-LED
+2   360 (0603)      RESISTOR_0603_NOOUT       0603-NO                R4, R5
+1   1.5K (0603)     RESISTOR_0603_NOOUT       0603-NO                R3
+1   0 (0603)        RESISTOR_0603_NOOUT       0603-NO                BAT-CON    
+1   10uF            CAP_CERAMIC0805-NOOUTLINE 0805-NO                C8
+2   3.6V            DIODESOD-323              SOD-323                D1, D3 
